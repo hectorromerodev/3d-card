@@ -1,3 +1,3 @@
-# 3d-card Effect
+# 3D Card Effect
 
-## Just a 3d efect with a card product to use on desktop browsers
+> Just a 3d efect with a card product to use on desktop browsers
